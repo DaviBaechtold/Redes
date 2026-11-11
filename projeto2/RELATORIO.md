@@ -1,7 +1,9 @@
 # Projeto 2 — Monitoramento de Telemetria de Frota
 
-**Equipe:** preencher nomes e turma  
-**Data:** preencher  
+**Equipe:** Warmi, Andrias, Yasmin e Davi Campos
+
+**Defesa:** 25/11, às 21h15
+
 **Disciplina:** Redes de Computadores
 
 ## 1. Objetivo e solução
